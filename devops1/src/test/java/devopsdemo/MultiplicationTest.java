@@ -12,7 +12,7 @@ public class MultiplicationTest {
 	public void test() {
 		
 		Multiplication m = new Multiplication();
-		int output = m.multiply(10,2000);
+		int output = m.multiply(10,3000);
 		
 		assertEquals(20000,output);
 		
